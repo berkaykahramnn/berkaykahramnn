@@ -1,11 +1,14 @@
 ![MasterHead](https://img.hotimg.com/image7eead5b250ddaf2d.png)
 <h1 align="center">Hi there👋, I'm Berkay Kahraman</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul</h3>
+
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Berkay+Kahraman+%e2%9c%a8;%f0%9f%93%9a+Software+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
+
+<img src="https://github.com/berkaykahramnn/berkaykahramnn/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 - 📫 Reach me through **berkay99kahraman@gmail.com**
 
