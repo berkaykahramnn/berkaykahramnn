@@ -8,7 +8,7 @@
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=300 height=300 align="right">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=300 height=220 align="right">
 
 - 📫 Reach me through **berkay99kahraman@gmail.com**
 
