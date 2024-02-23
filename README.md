@@ -15,8 +15,7 @@
 - 📄 Review of my past [https://flowcv.com/resume/kl7h24s29h](https://flowcv.com/resume/kl7h24s29h)
 
 <h3 align="left">Connect with me</h3>
-<h3 align="left">Via:</h3><p align="left">
-<a href="https://linkedin.com/in/berkay-kahraman-software" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-kahraman-software" height="30" width="40" /></a>
+#Via<a href="https://linkedin.com/in/berkay-kahraman-software" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-kahraman-software" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/berkay-kahraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berkay-kahraman" height="30" width="40" /></a>
 </p>
 
