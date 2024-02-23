@@ -1,4 +1,5 @@
 ![MasterHead](https://img.hotimg.com/image7eead5b250ddaf2d.png)
+![](https://komarev.com/ghpvc/?username=berkaykahramnn&color=blue)
 <h1 align="center">Hi there👋, I'm Berkay Kahraman</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul</h3>
 
