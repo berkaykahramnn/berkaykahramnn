@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Berkay Kahraman</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul</h3>
 
-- 📫 How to reach me **berkay99kahraman@gmail.com**
+- 📫 Reach me through **berkay99kahraman@gmail.com**
 
 - 📄 Review of my past [https://flowcv.com/resume/kl7h24s29h](https://flowcv.com/resume/kl7h24s29h)
 
